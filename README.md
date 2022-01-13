@@ -1,5 +1,3 @@
-Overview of Project: Explain the purpose of this analysis.
-
 # Project Overview:
 
 - Our project is to apply VBA-Visual Basic for Applications onto Excel spreadsheet data to assist client Steve and his parents analyzing a list of green stocks. We are interested in finding the given green stocks perfomance in each year in 2017 and 2018. Our goal is to create an output analysis to show Steve all 12 stock's total daily trading volume and their respective returns in each year with a simple click of button. From there we are able to show Steve and his parents the best stock investment options.
